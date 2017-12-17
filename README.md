@@ -1,10 +1,10 @@
 # AndroidRxJava-Interval
-Android RxJava, how to start, stop, reset Observable.interval programattically on run time!
+Android RxJava, how to start, stop, reset Observable.interval programmatically on run time!
 
 # Android RxJava Interval: Sample App
 [![AmjadOmari](https://firebasestorage.googleapis.com/v0/b/misc-31544.appspot.com/o/aomari.svg?alt=media&token=77658c30-5a06-4e1f-a783-2a51675d16b1)](http://www.amjadomari.com/)
 
-In this samble app, we are creatting a class that is triggring an event each n time, in addetion we have added usefull methods to the calss, that will allow as to use it smoothly.
+In this sample app, we are creating a class that is triggering an event each n time, in addition we have added useful methods to the class, that will allow as to use it smoothly.
 1. setPeriod(int period): this method set the ticks period in seconds.
 2. start(): this mithod to start the observable.interval forever.
 3. stop(): to stop the observable.interval.
@@ -23,7 +23,7 @@ This App aims to present of how to build a clean code using Dagger 2 and MVP str
 ------------
 
 
-##### This app has been designed in such a way to descripe how to use the reactive programming (Observable.interval) using RxJava and butterknife.
+##### This app has been designed in such a way to describe how to use the reactive programming (Observable.interval) using RxJava and butterknife.
 
 ### Observable.interval
 ```java
